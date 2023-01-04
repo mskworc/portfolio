@@ -1,3 +1,7 @@
 # portfolio
-tester
+
 # About me
+# Tools
+# Tech skills
+# Certificates
+# Courses
